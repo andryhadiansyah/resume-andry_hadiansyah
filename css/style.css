@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #222222;
+    color: #2aa02c;
     transition: all .3s;
 }
 
@@ -326,7 +326,7 @@ a:focus {
 }
 
 .header h1 {
-    color: #222222;
+    color: #f80e0e;
     font-size: 50px;
     font-weight: 700;
 }
@@ -336,6 +336,7 @@ a:focus {
     margin: 0;
     height: 25px;
     font-size: 25px;
+    color: #f80e0e;
 }
 
 .header .typed-text {
